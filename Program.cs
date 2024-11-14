@@ -39,13 +39,7 @@ namespace Assignment1_2
 
             }
 
-            { 
-                //1.3.2
-              //
-              //
-              //
-              //
-            }
+
 
             {
                 //Write a program in C# to read n number of values in an array and display it in reverse order.Test Data :
